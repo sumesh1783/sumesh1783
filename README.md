@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sumesh! <br/><a href="https://github.com/sumesh1783">Programmer</a>, <a href="https://www.[linkedin.com/in//](https://www.linkedin.com/in/sumeshkumarms/)">Cybersecurity Analyst</a>, <a href="https://https://www.youtube.com/@sumeshkumar9940">YouTuber</a></h1>
+<h1>Hi, I'm Sumesh! <br/><a href="https://github.com/sumesh1783">Programmer</a>, <a href="https://www.[linkedin.com/in//](https://www.linkedin.com/in/sumeshkumarms/)">Cybersecurity Analyst</a>, <a href="https://www.youtube.com/@sumeshkumar9940">YouTuber</a></h1>
 
 <h2>👨‍💻 Web Development Projects:</h2>
 
@@ -34,14 +34,14 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/sumeshkumar9940
+[youtube]: https://www.youtube.com/@sumeshkumar9940
 [instagram]: https://www.linkedin.com/in/sumeshkumarms/
 [linkedin]: https://www.linkedin.com/in/sumeshkumarms/
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <!---
 - 👋 Hi, I’m spoidy aka sumesh
 - 👀 I’m interested in creating new stuffs
