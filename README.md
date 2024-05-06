@@ -4,6 +4,10 @@
 
 - <b>Creating Active Directory Lab Environment  (VirtualBox)</b>
   - [Creating VMs's, installing worstations and servers](https://github.com/)
+  - [Domain Controller Set up, installing worstations and servers](https://github.com/)
+  - [DNS, DHCP](https://github.com/)
+  - [Bulk User creation using PowerShell : 1000](https://github.com/)
+  - [Shared Drive and File Shares](https://github.com/)
 <!--
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
