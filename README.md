@@ -18,7 +18,9 @@
 -->
 <h2>👨‍💻 Cybeer Security Projects:</h2>
 <h2>👨‍💻 certifications:</h2>
-  -[ Google IT Support](https://imgur.com/a/MEc0899)
+- <b>Creating Active Directory Lab Environment  (VirtualBox)</b>
+
+  -[ Google IT Support]()
 <h2>📺 YouTube Videos</h2>
 <h2> 🤳 Connect with me:</h2>
 
