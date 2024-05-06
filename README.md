@@ -1,7 +1,7 @@
 <h1>Hi, I'm Sumesh! <br/><a href="https://github.com/sumesh1783">Programmer</a>, <a href="https://www.[linkedin.com/in//](https://www.linkedin.com/in/sumeshkumarms/)">Cybersecurity Analyst</a>, <a href="https://www.youtube.com/@sumeshkumar9940">YouTuber</a></h1>
 
-<h2>👨‍💻 Web Development Projects:</h2>
-
+<h2>👨‍💻 IT Support Projects:</h2>
+<!--
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
@@ -10,7 +10,7 @@
 - <b>C# (.NET Desktop Applications)</b>
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
+-->
 <h2>👨‍💻 IT Support Projects:</h2>
 <h2>👨‍💻 certifications:</h2>
 <h2>📺 YouTube Videos</h2>
