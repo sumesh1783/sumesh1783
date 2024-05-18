@@ -15,6 +15,7 @@
 
   -  [Google IT Support](https://imgur.com/a/MEc0899)
   -  [Barracuda Email Protection 01](https://ibb.co/R2qx56K)
+  <a href="https://ibb.co/R00cKd2"><img src="https://i.ibb.co/R00cKd2/Screenshot-2024-05-18-161042.png" alt="Screenshot-2024-05-18-161042" border="0"></a>
 
 <h2>📺 YouTube Videos</h2>
 <h2> 🤳 Connect with me:</h2>
