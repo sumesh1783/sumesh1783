@@ -14,8 +14,12 @@
 <h2>👨‍💻 Certifications:</h2>
 
   -  [Google IT Support](https://imgur.com/a/MEc0899)
-  -  [Barracuda Email Protection 01](https://ibb.co/R2qx56K)
-    <a href="https://ibb.co/R00cKd2"><img src="https://i.ibb.co/wWW4qjy/Screenshot-2024-05-18-161042.png" alt="Screenshot-2024-05-18-161042" border="0"></a>
+  -  [EGD01-BarracudaEmailProtection-EmailGatewayDefense-Foundation-1](https://ibb.co/R2qx56K)
+  -  [CCB01-BarracudaCloud-to-CloudBackup-Foundation](https://ibb.co/R00cKd2)
+  -  [IP01-BarracudaEmailProtection-ImpersonationProtection-Foundation](https://ibb.co/R2qx56K)
+  -  [IR01-BarracudaEmailProtection-IncidentResponse-Foundation](https://ibb.co/R2qx56K)
+
+
 <h2>📺 YouTube Videos</h2>
 <h2> 🤳 Connect with me:</h2>
 
