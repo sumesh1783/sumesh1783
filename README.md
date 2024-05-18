@@ -17,7 +17,7 @@
   -  [EGD01-BarracudaEmailProtection-EmailGatewayDefense-Foundation-1](https://ibb.co/SPDXQqN)
   -  [CCB01-BarracudaCloud-to-CloudBackup-Foundation](https://ibb.co/R00cKd2)
   -  [IP01-BarracudaEmailProtection-ImpersonationProtection-Foundation](https://ibb.co/vqpqwqw)
-  -  [IR01-BarracudaEmailProtection-IncidentResponse-Foundation](https://ibb.co/R2qx56K)
+  -  [IR01-BarracudaEmailProtection-IncidentResponse-Foundation](https://ibb.co/7C43kWY)
 
 
 <h2>📺 YouTube Videos</h2>
