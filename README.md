@@ -14,6 +14,10 @@
 <h2>👨‍💻 Certifications:</h2>
 
   -  [Google IT Support](https://imgur.com/a/MEc0899)
+  -  [Microsoft 365 Admin Center Training -iwCampus](https://ibb.co/92R1msG)
+  -  [Linux Administrator Training](https://ibb.co/ggJ5KJK)
+<h3>👨‍💻 Barracuda Certifications:</h3>
+
   -  [EGD01-BarracudaEmailProtection-EmailGatewayDefense-Foundation-1](https://ibb.co/SPDXQqN)
   -  [CCB01-BarracudaCloud-to-CloudBackup-Foundation](https://ibb.co/R00cKd2)
   -  [IP01-BarracudaEmailProtection-ImpersonationProtection-Foundation](https://ibb.co/vqpqwqw)
