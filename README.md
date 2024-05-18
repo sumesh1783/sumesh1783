@@ -14,8 +14,7 @@
 <h2>👨‍💻 Certifications:</h2>
 
   -  [Google IT Support](https://imgur.com/a/MEc0899)
-  <a href="https://ibb.co/R2qx56K"><img src="https://i.ibb.co/R2qx56K/Screenshot-2024-05-18-160301.png" alt="Screenshot-2024-05-18-160301" border="0"></a>
-
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/Pxd7SWy/Screenshot-2024-05-18-160301.png" alt="Screenshot-2024-05-18-160301" border="0"></a>
 <h2>📺 YouTube Videos</h2>
 <h2> 🤳 Connect with me:</h2>
 
